@@ -27,7 +27,7 @@ Header部分只有一行，包括三个字段：type（必需）、scope（可�
 #### scope
 scope用于说明 commit 影响的范围，比如数据层、控制层、视图层等等，视项目不同而不同
 #### subject
-subject是 commit 目的的简短描述，一般不超过50个字符
+subject是 commit 目的的简短描述，一般不超过80个字符
 ### Body
 Body 部分是对本次 commit 的详细描述，可以分成多行
 ### Footer
